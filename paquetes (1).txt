@@ -36,6 +36,4 @@ yum install -y python-six # ACFS
 yum install -y targetcli # ACFS
 yum install -y smartmontools
 yum install -y sysstat
-
-# Added by me.
 yum install -y unixODBC
